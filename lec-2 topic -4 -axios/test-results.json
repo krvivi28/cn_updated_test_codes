@@ -1,0 +1,21 @@
+{
+  "runtime": 399,
+  "percentageScore": 100,
+  "count": {
+    "total": 1,
+    "passed": 1
+  },
+  "failedTestCases": [],
+  "suites": [
+    {
+      "suiteName": "use axios to fetch data",
+      "passed": true,
+      "testCases": [
+        {
+          "passed": true,
+          "description": "should hit https://api.codingninjas.com/api/v3/event_tags API endpoint"
+        }
+      ]
+    }
+  ]
+}
