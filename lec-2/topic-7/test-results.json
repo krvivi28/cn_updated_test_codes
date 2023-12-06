@@ -1,0 +1,21 @@
+{
+  "runtime": 267,
+  "percentageScore": 100,
+  "count": {
+    "total": 1,
+    "passed": 1
+  },
+  "failedTestCases": [],
+  "suites": [
+    {
+      "suiteName": "get max",
+      "passed": true,
+      "testCases": [
+        {
+          "passed": true,
+          "description": "returns the maximum of two numbers"
+        }
+      ]
+    }
+  ]
+}
